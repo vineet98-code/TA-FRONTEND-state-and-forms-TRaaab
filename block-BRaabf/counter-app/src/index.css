@@ -11,3 +11,15 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+button{
+  padding: 0.25rem 1rem;
+  border: none;
+  margin-right: 10px;
+  cursor: pointer;
+  background-color:tomato;
+ }
+ .active--step{
+   background-color:cornflowerblue;
+   color: black;
+ }
